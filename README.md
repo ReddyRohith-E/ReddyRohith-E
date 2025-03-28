@@ -13,7 +13,7 @@ Welcome to my GitHub profile! I am a passionate developer with interests in vari
 
 - **Email:** e.reddyrohith2004@gmail.com
 - **LinkedIn:** [Reddy Rohith Enduluri](https://www.linkedin.com/in/reddy-rohith-enduluri-656000273/)
-- **Portfolio Page:** [rohith-pavilion](https://rohith-pavilion.netlify.app/)
+- **Portfolio Page:** [Rohith Enduluri](https://rohith-pavilion.netlify.app/)
 
 Feel free to explore my repositories and connect with me!
 
