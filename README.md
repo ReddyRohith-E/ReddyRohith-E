@@ -6,7 +6,7 @@ Welcome to my GitHub profile! I am a passionate developer with interests in vari
 
 - **Name:** Reddy Rohith Enduluri
 - **Profession:** Developer
-- **Skills:** Java, JavaScript,Python, React, Node.js, SQL, MongoDB,
+- **Skills:** Java, JavaScript, React, Node.js, SQL, MongoDB, C
 - **Interests:** Web Development, Machine Learning
 
 ## Contact
